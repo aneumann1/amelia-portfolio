@@ -1,18 +1,50 @@
 h1{
-font-family:Helvetica;
+font-family:Impact;
+font-size: 50px;
 margin-left: 500px;
+color:#F18058;
 
 }
 p1{
 font-family:verdana;
 font-size: 20px;
-margin-left: 100px;
-margin-right: 100px;
-margin-top: 100px;
+margin-left: 20px;
+color: #474747
 
 
 
 }
+h2{
+  font-family: verdana;
+  font-size: 30px;
+  color: #474747
+}
+h3{
+  font-family: verdana;
+  font-size: 30px;
+  color:#474747;
+}
+ul{
+  font-family: verdana;
+  font-size: 19px;
+  color: #474747;
+}
+h4{
+  font-family: verdana;
+  font-size: 30px;
+  color:#474747;
+}
+h5{
+  font-family: verdana;
+  font-size: 30px;
+  color:#474747;
+}
+p2{
+  font-family:verdana;
+  font-size: 20px;
+  color: #474747
+
+}
 body{
-  background-color: #BCC1DC;
+  background-color: #ECFFF6;
 }
